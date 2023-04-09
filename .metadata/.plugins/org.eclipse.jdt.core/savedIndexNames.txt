@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+C:\Users\namal\Desktop\My OSGI\OSGi\.metadata\.plugins\org.eclipse.jdt.core
+248291664.index
+1076208399.index
+3960641572.index
+988979923.index
+1642175237.index
